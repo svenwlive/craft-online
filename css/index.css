@@ -57,7 +57,7 @@
     text-align: center;
   }
   
-  #Play_snake_button {
+  #play-game {
     /* position: absolute; Remove this line */
     align-self: center;
     font-size: 70px;
@@ -73,7 +73,7 @@
     transition-duration: 0.4s;
   }
   
-  #Play_snake_button:hover {
+  #play-game:hover {
     background-color: #04AA6D;
     color: white;
   }
